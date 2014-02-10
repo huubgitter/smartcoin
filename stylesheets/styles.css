@@ -91,6 +91,14 @@ th {
   color:#444;
 }
 
+tr.odd {
+	background-color: #E2E4FF;
+}
+
+tr.even {
+	background-color: white;
+}
+
 img {
   max-width:100%;
 }
